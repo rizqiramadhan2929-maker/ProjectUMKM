@@ -1,0 +1,6 @@
+{
+  "name": "SmartUMKM - Modul Catat Kas",
+  "description": "Aplikasi pencatatan kas cerdas untuk pedagang UMKM dengan parse ekspresi bahasa sehari-hari, numpad draft cepat, chatbot pelaporan, shortcut widget, rekonsiliasi kas laci, dan estimasi pecahan receh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
